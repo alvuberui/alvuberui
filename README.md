@@ -14,14 +14,7 @@
 
 <br>
 <br>
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </a> 
- <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/indiciatraining.com/wp-content/uploads/2020/05/spring-boot-logo.png?fit=800%2C718&ssl=1" alt="spring-boot" width="40"height="35"/> </a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" alt="java" width="30" height="50"/> </a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mongo" width="30" height="50"/> </a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="40" height="40"/> </a></p>
-</div>
+
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvuberui&show_icons=true&locale=es&layout=compact" alt="alvuberui" height="150"/></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alvuberui&show_icons=true&locale=es" alt="alvuberui" height="150" width="350"/></p>
