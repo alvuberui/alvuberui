@@ -8,7 +8,7 @@
 
 - 📍 Ingeniero del Software por la Universidad de Sevilla.
 
-- 🌱 Becario en el Equipo de Arquitectura de NTT DATA.
+- 🌱 Arquitecto de microservicios en NTT DATA
 
 - 📫 Contactar conmigo **https://linktr.ee/alvaro_ubeda8**
 
